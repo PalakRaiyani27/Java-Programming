@@ -11,3 +11,7 @@ Description: Demonstrates the concept of inheritance, method usage, and input ha
 3. Largest Number Program
 **Question: Write a Java program to accept three numbers from the user and find the largest among them using if-else conditions.
 Description: Demonstrates the use of variables, conditional statements, and input/output handling in Java.**
+==========================
+4. Odd or Even Program
+**Question: Write a Java program to accept a number from the user and determine whether it is odd or even.
+Description: Demonstrates the use of conditional statements (if-else), modulus operator (%), and user input in Java.**
