@@ -7,3 +7,7 @@ Description: Demonstrates the use of constructor, this keyword, and object creat
 2. Inheritance – Student and Marks
 **Question: Write a Java program to create a Student1 class and a Marks class that inherits from it. Accept marks for Java Theory and Practical, calculate the total, and display all details.
 Description: Demonstrates the concept of inheritance, method usage, and input handling in Java.**
+==========================
+3. Largest Number Program
+**Question: Write a Java program to accept three numbers from the user and find the largest among them using if-else conditions.
+Description: Demonstrates the use of variables, conditional statements, and input/output handling in Java.**
